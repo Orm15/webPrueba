@@ -1,0 +1,19 @@
+/* Estilos para el catálogo */
+.airplane {
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.airplane h2 {
+    margin-top: 0;
+}
+
+.airplane img {
+    max-width: 100%;
+    width :200; 
+    height:200px;
+    border : 5px solid black
+}
